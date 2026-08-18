@@ -1,0 +1,13 @@
+{
+  "name": "dota-inventory-networth",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update-items": "node scripts/fetch-items.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
