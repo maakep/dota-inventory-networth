@@ -43,6 +43,10 @@ Ordered slot IDs—including empty gaps and consumed upgrades—are encoded as u
 
 In the repository settings, open **Pages**, choose **Deploy from a branch**, and select `main` / `/ (root)`. All asset paths are relative, so the site works both on a project Pages URL and a custom domain. The `.nojekyll` marker keeps the static files untouched.
 
+## Reusable support link
+
+The Buy Me a Coffee icon is marked by a `Reusable support icon` comment beside `#help-toggle` in `index.html`. Its styles are isolated under `.header-support-link` in `styles.css`, so another agent can copy those two small blocks without depending on the rest of this project.
+
 ## Controls
 
 - Click a catalog result or press Enter on a search result to add it.

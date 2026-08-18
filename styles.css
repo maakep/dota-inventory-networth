@@ -668,11 +668,31 @@ h1 {
   background: rgba(13, 14, 17, 0.78);
   color: var(--ink);
   cursor: pointer;
-  font-size: 15px;
+  font-size: 0;
   line-height: 1;
   transform: translateY(-3px);
   transition: opacity 150ms ease, transform 150ms ease, background 150ms ease;
   backdrop-filter: blur(5px);
+}
+
+.remove-item::before,
+.remove-item::after {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 8px;
+  height: 1px;
+  content: "";
+  background: currentColor;
+  transform-origin: center;
+}
+
+.remove-item::before {
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.remove-item::after {
+  transform: translate(-50%, -50%) rotate(-45deg);
 }
 
 .inventory-slot:hover .remove-item,
@@ -1134,6 +1154,27 @@ footer a {
 }
 
 footer a:hover {
+  color: var(--orange-light);
+}
+
+/* Reusable header support icon; markup lives beside #help-toggle in index.html. */
+.header-support-link {
+  width: 25px;
+  height: 25px;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--border-strong);
+  border-radius: 50%;
+  color: var(--muted);
+  font: 15px/1 sans-serif;
+  text-decoration: none;
+  transition: border-color 140ms ease, color 140ms ease, background 140ms ease;
+}
+
+.header-support-link:hover,
+.header-support-link:focus-visible {
+  border-color: var(--orange);
+  background: rgba(240, 138, 67, 0.08);
   color: var(--orange-light);
 }
 
@@ -2246,7 +2287,7 @@ footer {
   right: 4px;
   width: 19px;
   height: 19px;
-  font-size: 12px;
+  font-size: 0;
 }
 
 .total-card {
