@@ -40,8 +40,8 @@ function base64UrlToBytes(value) {
 }
 
 export function encodeInventory(ids) {
-  if (!Array.isArray(ids) || ids.length > 6) {
-    throw new TypeError("An inventory can contain at most six item IDs");
+  if (!Array.isArray(ids) || ids.length > 12) {
+    throw new TypeError("An inventory payload can contain at most twelve item IDs");
   }
 
   const bytes = [CODEC_VERSION];
@@ -70,7 +70,7 @@ export function decodeInventory(code) {
         throw new TypeError("Invalid item ID in build code");
       }
       ids.push(value);
-      if (ids.length > 6) throw new TypeError("Build code contains too many items");
+      if (ids.length > 12) throw new TypeError("Inventory code contains too many items");
       value = 0;
       shift = 0;
     } else {

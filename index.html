@@ -29,21 +29,34 @@
         </span>
         <span>Dota <b>/</b> Net Worth</span>
       </a>
-      <span class="feed-status" id="feed-status">
-        <i aria-hidden="true"></i>
-        Loading item data
-      </span>
+      <div class="header-actions">
+        <span class="feed-status" id="feed-status">
+          <i aria-hidden="true"></i>
+          Loading item data
+        </span>
+        <button class="help-button" id="help-toggle" type="button" aria-label="How to use">?</button>
+      </div>
     </header>
 
-    <main>
-      <section class="hero" aria-labelledby="page-title">
-        <p class="eyebrow">Inventory calculator</p>
-        <h1 id="page-title">What’s your build worth?</h1>
-        <p class="hero-copy">
-          Pick up to six items. Search, click, or press Enter to add—then drag them into place.
-        </p>
-      </section>
+    <dialog class="help-dialog" id="help-dialog">
+      <div class="help-dialog-heading">
+        <h2>How to use</h2>
+        <button id="help-close" type="button" aria-label="Close help">×</button>
+      </div>
+      <ul>
+        <li>Start typing anywhere, then press Enter to add the highlighted item.</li>
+        <li>Click an inventory to make it the target for new items.</li>
+        <li><kbd>Tab</kbd> cycles inventories; <kbd>Shift</kbd> + <kbd>Tab</kbd> cycles backwards.</li>
+        <li><kbd>Alt</kbd> + <kbd>1–9</kbd> selects an inventory; if it does not exist, one new inventory is created.</li>
+        <li><kbd>Alt</kbd> + <kbd>C</kbd> clears the selected inventory; <kbd>Alt</kbd> + <kbd>D</kbd> removes it.</li>
+        <li>Drag items to swap slots. Backpack slots are the smaller grey row.</li>
+        <li>Aghanim’s Blessing, Aghanim’s Shard, and Moon Shard use the three consumed-upgrade slots.</li>
+        <li>Use the hover × or right-click to remove an item.</li>
+        <li><kbd>Delete</kbd> removes the most recently added item from the selected inventory.</li>
+      </ul>
+    </dialog>
 
+    <main>
       <section class="search-section" aria-label="Add an item">
         <div class="search-shell" id="search-shell">
           <span class="search-icon" aria-hidden="true"></span>
@@ -51,68 +64,27 @@
           <input
             id="item-search"
             type="search"
-            placeholder="Search for an item…"
+            placeholder="Search items and press Enter to add…"
             autocomplete="off"
             spellcheck="false"
             aria-autocomplete="list"
             aria-controls="search-results"
             aria-expanded="false"
           />
-          <kbd class="search-shortcut"><span>Ctrl</span> K</kbd>
           <div class="search-results" id="search-results" role="listbox" hidden></div>
         </div>
-        <p class="search-help">Try “blink”, “boots”, or “recipe”. Use <kbd>↑</kbd><kbd>↓</kbd> to browse.</p>
       </section>
 
-      <section class="workbench" aria-label="Inventory builder">
-        <div class="inventory-card panel">
-          <div class="panel-heading">
-            <div>
-              <p class="section-kicker">Your inventory</p>
-              <h2><span id="slot-count">0</span> of 6 slots</h2>
-            </div>
-            <div class="inventory-actions">
-              <button class="text-button" id="delete-last" type="button" disabled>
-                Delete last <kbd>Del</kbd>
-              </button>
-              <button class="text-button danger" id="clear-inventory" type="button" disabled>
-                Clear
-              </button>
-            </div>
-          </div>
-
-          <div class="slot-grid" id="inventory-slots" aria-label="Six inventory slots"></div>
-          <p class="drag-hint">
-            <span class="drag-icon" aria-hidden="true">⠿</span>
-            Drag items to swap slots · Right-click an item to remove it
-          </p>
-        </div>
-
-        <aside class="total-card panel" aria-labelledby="total-title">
-          <p class="section-kicker" id="total-title">Total net worth</p>
-          <div class="gold-total" aria-live="polite">
-            <span class="gold-icon" aria-hidden="true"></span>
-            <output id="total-value">0</output>
-          </div>
-          <p class="total-caption" id="total-caption">Add an item to start your build.</p>
-          <div class="total-rule"></div>
-          <dl class="build-stats">
-            <div>
-              <dt>Items</dt>
-              <dd id="item-count">0 / 6</dd>
-            </div>
-            <div>
-              <dt>Most expensive</dt>
-              <dd id="highest-item">—</dd>
-            </div>
-          </dl>
-          <button class="share-button" id="share-build" type="button">
-            <span class="link-icon" aria-hidden="true"></span>
-            Copy build link
-          </button>
-          <p class="share-note">Your URL updates automatically.</p>
-        </aside>
+      <section class="inventory-toolbar" aria-label="Inventory controls">
+        <button class="add-build-button" id="add-inventory" type="button">+ Add inventory</button>
+        <button class="all-builds-button" id="share-all" type="button">
+          <span class="link-icon" aria-hidden="true"></span>
+          Copy link to inventories
+        </button>
+        <span class="build-hotkey-hint">Select: <kbd>Tab</kbd> or <kbd>Alt</kbd> + <kbd>1–9</kbd></span>
       </section>
+
+      <section class="inventory-comparison" id="inventory-list" aria-label="Inventories"></section>
 
       <section class="catalog" aria-labelledby="catalog-title">
         <div class="catalog-heading">
@@ -121,12 +93,6 @@
             <h2 id="catalog-title">Browse all items</h2>
           </div>
           <div class="catalog-controls">
-            <div class="filter-tabs" id="filter-tabs" aria-label="Filter items">
-              <button type="button" class="is-active" data-filter="all" aria-pressed="true">All</button>
-              <button type="button" data-filter="shop" aria-pressed="false">Shop</button>
-              <button type="button" data-filter="neutral" aria-pressed="false">Neutral</button>
-              <button type="button" data-filter="recipe" aria-pressed="false">Recipes</button>
-            </div>
             <label class="sort-control">
               <span class="sr-only">Sort items</span>
               <select id="item-sort">
