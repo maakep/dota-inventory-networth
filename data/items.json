@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-21T09:59:29.587Z",
+    "updatedAt": "2026-10-12T12:05:25.154Z",
     "source": "https://www.dota2.com/datafeed/itemlist?language=english",
     "count": 544
   },
@@ -1709,7 +1709,7 @@
       "id": 106,
       "name": "item_necronomicon",
       "nameLocalized": "Necronomicon",
-      "cost": 2050,
+      "cost": 2700,
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
@@ -1719,7 +1719,7 @@
       "id": 193,
       "name": "item_necronomicon_2",
       "nameLocalized": "Necronomicon",
-      "cost": 3300,
+      "cost": 3950,
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
@@ -1729,7 +1729,7 @@
       "id": 194,
       "name": "item_necronomicon_3",
       "nameLocalized": "Necronomicon",
-      "cost": 4550,
+      "cost": 5200,
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
