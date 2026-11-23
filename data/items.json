@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updatedAt": "2026-10-12T12:05:25.154Z",
+    "updatedAt": "2026-11-23T14:46:33.940Z",
     "source": "https://www.dota2.com/datafeed/itemlist?language=english",
-    "count": 544
+    "count": 566
   },
   "items": [
     {
@@ -169,7 +169,7 @@
       "id": 10,
       "name": "item_quarterstaff",
       "nameLocalized": "Quarterstaff",
-      "cost": 875,
+      "cost": 900,
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
@@ -636,6 +636,26 @@
       "order": 62
     },
     {
+      "id": 1941,
+      "name": "item_recipe_bloodslinger",
+      "nameLocalized": "recipe_bloodslinger",
+      "cost": 420,
+      "neutralTier": -1,
+      "quality": 1,
+      "recipe": true,
+      "order": 63
+    },
+    {
+      "id": 1942,
+      "name": "item_bloodslinger",
+      "nameLocalized": "Bloodslinger",
+      "cost": 925,
+      "neutralTier": -1,
+      "quality": 1,
+      "recipe": false,
+      "order": 64
+    },
+    {
       "id": 1154,
       "name": "item_royale_with_cheese",
       "nameLocalized": "Block of Cheese",
@@ -643,7 +663,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 63
+      "order": 65
     },
     {
       "id": 39,
@@ -653,7 +673,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 64
+      "order": 66
     },
     {
       "id": 40,
@@ -663,7 +683,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 65
+      "order": 67
     },
     {
       "id": 41,
@@ -673,7 +693,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 66
+      "order": 68
     },
     {
       "id": 42,
@@ -683,7 +703,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 67
+      "order": 69
     },
     {
       "id": 43,
@@ -693,7 +713,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 68
+      "order": 70
     },
     {
       "id": 217,
@@ -703,7 +723,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 69
+      "order": 71
     },
     {
       "id": 218,
@@ -713,7 +733,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 70
+      "order": 72
     },
     {
       "id": 44,
@@ -723,7 +743,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 71
+      "order": 73
     },
     {
       "id": 241,
@@ -733,7 +753,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 72
+      "order": 74
     },
     {
       "id": 45,
@@ -743,7 +763,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 73
+      "order": 75
     },
     {
       "id": 286,
@@ -753,7 +773,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 74
+      "order": 76
     },
     {
       "id": 46,
@@ -763,7 +783,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 75
+      "order": 77
     },
     {
       "id": 47,
@@ -773,7 +793,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 76
+      "order": 78
     },
     {
       "id": 219,
@@ -783,7 +803,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 77
+      "order": 79
     },
     {
       "id": 48,
@@ -793,7 +813,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 78
+      "order": 80
     },
     {
       "id": 220,
@@ -803,7 +823,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 79
+      "order": 81
     },
     {
       "id": 49,
@@ -813,7 +833,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 80
+      "order": 82
     },
     {
       "id": 50,
@@ -823,7 +843,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 81
+      "order": 83
     },
     {
       "id": 51,
@@ -833,7 +853,7 @@
       "neutralTier": -1,
       "quality": 6,
       "recipe": false,
-      "order": 82
+      "order": 84
     },
     {
       "id": 52,
@@ -843,7 +863,7 @@
       "neutralTier": -1,
       "quality": 6,
       "recipe": false,
-      "order": 83
+      "order": 85
     },
     {
       "id": 53,
@@ -853,7 +873,7 @@
       "neutralTier": -1,
       "quality": 6,
       "recipe": false,
-      "order": 84
+      "order": 86
     },
     {
       "id": 54,
@@ -863,7 +883,7 @@
       "neutralTier": -1,
       "quality": 6,
       "recipe": false,
-      "order": 85
+      "order": 87
     },
     {
       "id": 55,
@@ -873,7 +893,7 @@
       "neutralTier": -1,
       "quality": 6,
       "recipe": false,
-      "order": 86
+      "order": 88
     },
     {
       "id": 56,
@@ -883,7 +903,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 87
+      "order": 89
     },
     {
       "id": 279,
@@ -893,7 +913,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 88
+      "order": 90
     },
     {
       "id": 57,
@@ -903,7 +923,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 89
+      "order": 91
     },
     {
       "id": 1802,
@@ -913,7 +933,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 90
+      "order": 92
     },
     {
       "id": 58,
@@ -923,7 +943,7 @@
       "neutralTier": -1,
       "quality": 6,
       "recipe": false,
-      "order": 91
+      "order": 93
     },
     {
       "id": 59,
@@ -933,7 +953,7 @@
       "neutralTier": -1,
       "quality": 6,
       "recipe": false,
-      "order": 92
+      "order": 94
     },
     {
       "id": 60,
@@ -943,7 +963,7 @@
       "neutralTier": -1,
       "quality": 6,
       "recipe": false,
-      "order": 93
+      "order": 95
     },
     {
       "id": 61,
@@ -953,7 +973,7 @@
       "neutralTier": -1,
       "quality": 6,
       "recipe": false,
-      "order": 94
+      "order": 96
     },
     {
       "id": 593,
@@ -963,7 +983,7 @@
       "neutralTier": -1,
       "quality": 6,
       "recipe": false,
-      "order": 95
+      "order": 97
     },
     {
       "id": 1849,
@@ -973,7 +993,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 96
+      "order": 98
     },
     {
       "id": 62,
@@ -983,7 +1003,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 97
+      "order": 99
     },
     {
       "id": 63,
@@ -993,7 +1013,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 98
+      "order": 100
     },
     {
       "id": 1106,
@@ -1003,7 +1023,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 99
+      "order": 101
     },
     {
       "id": 1107,
@@ -1013,7 +1033,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 100
+      "order": 102
     },
     {
       "id": 1807,
@@ -1023,7 +1043,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 101
+      "order": 103
     },
     {
       "id": 1808,
@@ -1033,7 +1053,27 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 102
+      "order": 104
+    },
+    {
+      "id": 1954,
+      "name": "item_recipe_caduceus",
+      "nameLocalized": "Caduceus Recipe",
+      "cost": 600,
+      "neutralTier": -1,
+      "quality": 1,
+      "recipe": true,
+      "order": 105
+    },
+    {
+      "id": 1955,
+      "name": "item_caduceus",
+      "nameLocalized": "Caduceus",
+      "cost": 5400,
+      "neutralTier": -1,
+      "quality": 3,
+      "recipe": false,
+      "order": 106
     },
     {
       "id": 64,
@@ -1043,7 +1083,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 103
+      "order": 107
     },
     {
       "id": 65,
@@ -1053,7 +1093,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 104
+      "order": 108
     },
     {
       "id": 66,
@@ -1063,7 +1103,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 105
+      "order": 109
     },
     {
       "id": 67,
@@ -1073,17 +1113,17 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 106
+      "order": 110
     },
     {
       "id": 533,
       "name": "item_recipe_witch_blade",
       "nameLocalized": "Witch Blade Recipe",
-      "cost": 300,
+      "cost": 650,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 107
+      "order": 111
     },
     {
       "id": 534,
@@ -1093,7 +1133,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 108
+      "order": 112
     },
     {
       "id": 68,
@@ -1103,7 +1143,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 109
+      "order": 113
     },
     {
       "id": 69,
@@ -1113,7 +1153,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 110
+      "order": 114
     },
     {
       "id": 1125,
@@ -1123,7 +1163,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 111
+      "order": 115
     },
     {
       "id": 70,
@@ -1133,17 +1173,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 112
+      "order": 116
     },
     {
       "id": 71,
       "name": "item_poor_mans_shield",
       "nameLocalized": "Poor Man's Shield",
       "cost": 0,
-      "neutralTier": 1,
+      "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 113
+      "order": 117
     },
     {
       "id": 72,
@@ -1153,7 +1193,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 114
+      "order": 118
     },
     {
       "id": 73,
@@ -1163,7 +1203,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 115
+      "order": 119
     },
     {
       "id": 74,
@@ -1173,7 +1213,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 116
+      "order": 120
     },
     {
       "id": 75,
@@ -1183,7 +1223,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 117
+      "order": 121
     },
     {
       "id": 76,
@@ -1193,7 +1233,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 118
+      "order": 122
     },
     {
       "id": 77,
@@ -1203,7 +1243,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 119
+      "order": 123
     },
     {
       "id": 78,
@@ -1213,7 +1253,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 120
+      "order": 124
     },
     {
       "id": 79,
@@ -1223,7 +1263,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 121
+      "order": 125
     },
     {
       "id": 80,
@@ -1233,7 +1273,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 122
+      "order": 126
     },
     {
       "id": 81,
@@ -1243,7 +1283,27 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 123
+      "order": 127
+    },
+    {
+      "id": 1943,
+      "name": "item_recipe_ristuls_devotion",
+      "nameLocalized": "Ristul's Devotion Recipe",
+      "cost": 0,
+      "neutralTier": -1,
+      "quality": 1,
+      "recipe": true,
+      "order": 128
+    },
+    {
+      "id": 1944,
+      "name": "item_ristuls_devotion",
+      "nameLocalized": "Ristul's Devotion",
+      "cost": 3800,
+      "neutralTier": -1,
+      "quality": 3,
+      "recipe": false,
+      "order": 129
     },
     {
       "id": 907,
@@ -1253,7 +1313,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 124
+      "order": 130
     },
     {
       "id": 908,
@@ -1263,7 +1323,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 125
+      "order": 131
     },
     {
       "id": 85,
@@ -1273,7 +1333,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 126
+      "order": 132
     },
     {
       "id": 86,
@@ -1283,7 +1343,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 127
+      "order": 133
     },
     {
       "id": 87,
@@ -1293,7 +1353,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 128
+      "order": 134
     },
     {
       "id": 88,
@@ -1303,7 +1363,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 129
+      "order": 135
     },
     {
       "id": 268,
@@ -1313,7 +1373,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 130
+      "order": 136
     },
     {
       "id": 269,
@@ -1323,7 +1383,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 131
+      "order": 137
     },
     {
       "id": 89,
@@ -1333,7 +1393,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 132
+      "order": 138
     },
     {
       "id": 90,
@@ -1343,27 +1403,27 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 133
+      "order": 139
     },
     {
       "id": 91,
       "name": "item_recipe_urn_of_shadows",
       "nameLocalized": "Urn of Shadows Recipe",
-      "cost": 320,
+      "cost": 370,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 134
+      "order": 140
     },
     {
       "id": 92,
       "name": "item_urn_of_shadows",
       "nameLocalized": "Urn of Shadows",
-      "cost": 825,
+      "cost": 875,
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 135
+      "order": 141
     },
     {
       "id": 93,
@@ -1373,7 +1433,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 136
+      "order": 142
     },
     {
       "id": 94,
@@ -1383,7 +1443,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 137
+      "order": 143
     },
     {
       "id": 95,
@@ -1393,7 +1453,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 138
+      "order": 144
     },
     {
       "id": 96,
@@ -1403,7 +1463,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 139
+      "order": 145
     },
     {
       "id": 1801,
@@ -1413,7 +1473,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 140
+      "order": 146
     },
     {
       "id": 97,
@@ -1423,7 +1483,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 141
+      "order": 147
     },
     {
       "id": 98,
@@ -1433,27 +1493,27 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 142
+      "order": 148
     },
     {
       "id": 245,
       "name": "item_recipe_bloodthorn",
       "nameLocalized": "Bloodthorn Recipe",
-      "cost": 600,
+      "cost": 1350,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 143
+      "order": 149
     },
     {
       "id": 250,
       "name": "item_bloodthorn",
       "nameLocalized": "Bloodthorn",
-      "cost": 6400,
+      "cost": 6250,
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 144
+      "order": 150
     },
     {
       "id": 251,
@@ -1463,7 +1523,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 145
+      "order": 151
     },
     {
       "id": 252,
@@ -1473,7 +1533,7 @@
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 146
+      "order": 152
     },
     {
       "id": 99,
@@ -1483,7 +1543,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 147
+      "order": 153
     },
     {
       "id": 100,
@@ -1493,7 +1553,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 148
+      "order": 154
     },
     {
       "id": 612,
@@ -1503,7 +1563,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 149
+      "order": 155
     },
     {
       "id": 610,
@@ -1513,27 +1573,27 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 150
+      "order": 156
     },
     {
       "id": 233,
       "name": "item_recipe_aether_lens",
       "nameLocalized": "Aether Lens Recipe",
-      "cost": 775,
+      "cost": 600,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 151
+      "order": 157
     },
     {
       "id": 232,
       "name": "item_aether_lens",
       "nameLocalized": "Aether Lens",
-      "cost": 2275,
+      "cost": 2100,
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 152
+      "order": 158
     },
     {
       "id": 101,
@@ -1543,7 +1603,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 153
+      "order": 159
     },
     {
       "id": 102,
@@ -1553,7 +1613,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 154
+      "order": 160
     },
     {
       "id": 262,
@@ -1563,7 +1623,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 155
+      "order": 161
     },
     {
       "id": 263,
@@ -1573,7 +1633,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 156
+      "order": 162
     },
     {
       "id": 103,
@@ -1583,7 +1643,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 157
+      "order": 163
     },
     {
       "id": 197,
@@ -1593,7 +1653,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 158
+      "order": 164
     },
     {
       "id": 198,
@@ -1603,7 +1663,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 159
+      "order": 165
     },
     {
       "id": 199,
@@ -1613,7 +1673,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 160
+      "order": 166
     },
     {
       "id": 200,
@@ -1623,7 +1683,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 161
+      "order": 167
     },
     {
       "id": 104,
@@ -1633,7 +1693,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 162
+      "order": 168
     },
     {
       "id": 201,
@@ -1643,7 +1703,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 163
+      "order": 169
     },
     {
       "id": 202,
@@ -1653,7 +1713,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 164
+      "order": 170
     },
     {
       "id": 203,
@@ -1663,7 +1723,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 165
+      "order": 171
     },
     {
       "id": 204,
@@ -1673,7 +1733,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 166
+      "order": 172
     },
     {
       "id": 105,
@@ -1683,7 +1743,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 167
+      "order": 173
     },
     {
       "id": 191,
@@ -1693,7 +1753,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 168
+      "order": 174
     },
     {
       "id": 192,
@@ -1703,7 +1763,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 169
+      "order": 175
     },
     {
       "id": 106,
@@ -1713,7 +1773,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 170
+      "order": 176
     },
     {
       "id": 193,
@@ -1723,7 +1783,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 171
+      "order": 177
     },
     {
       "id": 194,
@@ -1733,7 +1793,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 172
+      "order": 178
     },
     {
       "id": 107,
@@ -1743,7 +1803,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 173
+      "order": 179
     },
     {
       "id": 108,
@@ -1753,7 +1813,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 174
+      "order": 180
     },
     {
       "id": 270,
@@ -1763,7 +1823,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 175
+      "order": 181
     },
     {
       "id": 271,
@@ -1773,7 +1833,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 176
+      "order": 182
     },
     {
       "id": 727,
@@ -1783,7 +1843,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 177
+      "order": 183
     },
     {
       "id": 609,
@@ -1793,7 +1853,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 178
+      "order": 184
     },
     {
       "id": 725,
@@ -1803,7 +1863,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 179
+      "order": 185
     },
     {
       "id": 1850,
@@ -1813,7 +1873,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 180
+      "order": 186
     },
     {
       "id": 109,
@@ -1823,7 +1883,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 181
+      "order": 187
     },
     {
       "id": 110,
@@ -1833,7 +1893,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 182
+      "order": 188
     },
     {
       "id": 111,
@@ -1843,7 +1903,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 183
+      "order": 189
     },
     {
       "id": 112,
@@ -1853,7 +1913,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 184
+      "order": 190
     },
     {
       "id": 113,
@@ -1863,7 +1923,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 185
+      "order": 191
     },
     {
       "id": 114,
@@ -1873,7 +1933,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 186
+      "order": 192
     },
     {
       "id": 115,
@@ -1883,7 +1943,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 187
+      "order": 193
     },
     {
       "id": 116,
@@ -1893,7 +1953,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 188
+      "order": 194
     },
     {
       "id": 117,
@@ -1903,7 +1963,7 @@
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 189
+      "order": 195
     },
     {
       "id": 118,
@@ -1913,7 +1973,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 190
+      "order": 196
     },
     {
       "id": 119,
@@ -1923,7 +1983,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 191
+      "order": 197
     },
     {
       "id": 120,
@@ -1933,7 +1993,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 192
+      "order": 198
     },
     {
       "id": 121,
@@ -1943,7 +2003,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 193
+      "order": 199
     },
     {
       "id": 122,
@@ -1953,7 +2013,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 194
+      "order": 200
     },
     {
       "id": 123,
@@ -1963,7 +2023,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 195
+      "order": 201
     },
     {
       "id": 221,
@@ -1973,7 +2033,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 196
+      "order": 202
     },
     {
       "id": 226,
@@ -1983,7 +2043,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 197
+      "order": 203
     },
     {
       "id": 222,
@@ -1993,17 +2053,37 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 198
+      "order": 204
     },
     {
       "id": 223,
       "name": "item_meteor_hammer",
       "nameLocalized": "Meteor Hammer",
-      "cost": 2850,
+      "cost": 2750,
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 199
+      "order": 205
+    },
+    {
+      "id": 1945,
+      "name": "item_recipe_starforge",
+      "nameLocalized": "Starforge Recipe",
+      "cost": 450,
+      "neutralTier": -1,
+      "quality": 1,
+      "recipe": true,
+      "order": 206
+    },
+    {
+      "id": 1946,
+      "name": "item_starforge",
+      "nameLocalized": "Starforge",
+      "cost": 6000,
+      "neutralTier": -1,
+      "quality": 4,
+      "recipe": false,
+      "order": 207
     },
     {
       "id": 224,
@@ -2013,7 +2093,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 200
+      "order": 208
     },
     {
       "id": 225,
@@ -2023,7 +2103,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 201
+      "order": 209
     },
     {
       "id": 255,
@@ -2033,7 +2113,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 202
+      "order": 210
     },
     {
       "id": 256,
@@ -2043,37 +2123,37 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 203
+      "order": 211
     },
     {
       "id": 258,
       "name": "item_recipe_kaya",
       "nameLocalized": "Kaya Recipe",
-      "cost": 650,
+      "cost": 550,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 204
+      "order": 212
     },
     {
       "id": 259,
       "name": "item_kaya",
       "nameLocalized": "Kaya",
-      "cost": 2100,
+      "cost": 2000,
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 205
+      "order": 213
     },
     {
       "id": 369,
       "name": "item_trident",
       "nameLocalized": "Trident",
-      "cost": 6301,
+      "cost": 6001,
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 206
+      "order": 214
     },
     {
       "id": 260,
@@ -2083,17 +2163,17 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 207
+      "order": 215
     },
     {
       "id": 266,
       "name": "item_recipe_spirit_vessel",
       "nameLocalized": "Spirit Vessel Recipe",
-      "cost": 900,
+      "cost": 850,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 208
+      "order": 216
     },
     {
       "id": 267,
@@ -2103,17 +2183,17 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 209
+      "order": 217
     },
     {
       "id": 1851,
       "name": "item_recipe_essence_distiller",
       "nameLocalized": "Essence Distiller Recipe",
-      "cost": 200,
+      "cost": 150,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 210
+      "order": 218
     },
     {
       "id": 1852,
@@ -2123,7 +2203,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 211
+      "order": 219
     },
     {
       "id": 124,
@@ -2133,7 +2213,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 212
+      "order": 220
     },
     {
       "id": 125,
@@ -2143,17 +2223,17 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 213
+      "order": 221
     },
     {
       "id": 243,
       "name": "item_recipe_crimson_guard",
       "nameLocalized": "Crimson Guard Recipe",
-      "cost": 1050,
+      "cost": 625,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 214
+      "order": 222
     },
     {
       "id": 242,
@@ -2163,27 +2243,27 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 215
+      "order": 223
     },
     {
       "id": 126,
       "name": "item_recipe_blade_mail",
       "nameLocalized": "Blade Mail Recipe",
-      "cost": 450,
+      "cost": 400,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 216
+      "order": 224
     },
     {
       "id": 127,
       "name": "item_blade_mail",
       "nameLocalized": "Blade Mail",
-      "cost": 2400,
+      "cost": 2350,
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 217
+      "order": 225
     },
     {
       "id": 128,
@@ -2193,7 +2273,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 218
+      "order": 226
     },
     {
       "id": 129,
@@ -2203,7 +2283,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 219
+      "order": 227
     },
     {
       "id": 130,
@@ -2213,7 +2293,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 220
+      "order": 228
     },
     {
       "id": 131,
@@ -2223,7 +2303,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 221
+      "order": 229
     },
     {
       "id": 691,
@@ -2233,7 +2313,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 222
+      "order": 230
     },
     {
       "id": 692,
@@ -2243,7 +2323,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 223
+      "order": 231
     },
     {
       "id": 1853,
@@ -2253,7 +2333,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 224
+      "order": 232
     },
     {
       "id": 1854,
@@ -2263,7 +2343,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 225
+      "order": 233
     },
     {
       "id": 1855,
@@ -2273,7 +2353,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 226
+      "order": 234
     },
     {
       "id": 1856,
@@ -2283,7 +2363,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 227
+      "order": 235
     },
     {
       "id": 132,
@@ -2293,7 +2373,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 228
+      "order": 236
     },
     {
       "id": 133,
@@ -2303,7 +2383,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 229
+      "order": 237
     },
     {
       "id": 134,
@@ -2313,7 +2393,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 230
+      "order": 238
     },
     {
       "id": 135,
@@ -2323,7 +2403,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 231
+      "order": 239
     },
     {
       "id": 136,
@@ -2333,7 +2413,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 232
+      "order": 240
     },
     {
       "id": 137,
@@ -2343,7 +2423,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 233
+      "order": 241
     },
     {
       "id": 138,
@@ -2353,17 +2433,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 234
+      "order": 242
     },
     {
       "id": 139,
       "name": "item_butterfly",
       "nameLocalized": "Butterfly",
-      "cost": 5450,
+      "cost": 5000,
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 235
+      "order": 243
     },
     {
       "id": 140,
@@ -2373,7 +2453,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 236
+      "order": 244
     },
     {
       "id": 141,
@@ -2383,7 +2463,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 237
+      "order": 245
     },
     {
       "id": 142,
@@ -2393,7 +2473,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 238
+      "order": 246
     },
     {
       "id": 143,
@@ -2403,7 +2483,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 239
+      "order": 247
     },
     {
       "id": 144,
@@ -2413,7 +2493,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 240
+      "order": 248
     },
     {
       "id": 145,
@@ -2423,7 +2503,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 241
+      "order": 249
     },
     {
       "id": 146,
@@ -2433,17 +2513,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 242
+      "order": 250
     },
     {
       "id": 147,
       "name": "item_manta",
       "nameLocalized": "Manta Style",
-      "cost": 4650,
+      "cost": 4550,
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 243
+      "order": 251
     },
     {
       "id": 148,
@@ -2453,7 +2533,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 244
+      "order": 252
     },
     {
       "id": 149,
@@ -2463,7 +2543,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 245
+      "order": 253
     },
     {
       "id": 234,
@@ -2473,7 +2553,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 246
+      "order": 254
     },
     {
       "id": 236,
@@ -2483,7 +2563,7 @@
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 247
+      "order": 255
     },
     {
       "id": 150,
@@ -2493,7 +2573,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 248
+      "order": 256
     },
     {
       "id": 151,
@@ -2503,7 +2583,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 249
+      "order": 257
     },
     {
       "id": 183,
@@ -2513,7 +2593,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 250
+      "order": 258
     },
     {
       "id": 152,
@@ -2523,7 +2603,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 251
+      "order": 259
     },
     {
       "id": 248,
@@ -2533,7 +2613,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 252
+      "order": 260
     },
     {
       "id": 249,
@@ -2543,7 +2623,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 253
+      "order": 261
     },
     {
       "id": 153,
@@ -2553,17 +2633,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 254
+      "order": 262
     },
     {
       "id": 154,
       "name": "item_sange_and_yasha",
       "nameLocalized": "Sange and Yasha",
-      "cost": 4200,
+      "cost": 4000,
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 255
+      "order": 263
     },
     {
       "id": 272,
@@ -2573,17 +2653,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 256
+      "order": 264
     },
     {
       "id": 273,
       "name": "item_kaya_and_sange",
       "nameLocalized": "Kaya and Sange",
-      "cost": 4200,
+      "cost": 4000,
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 257
+      "order": 265
     },
     {
       "id": 274,
@@ -2593,17 +2673,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 258
+      "order": 266
     },
     {
       "id": 277,
       "name": "item_yasha_and_kaya",
       "nameLocalized": "Yasha and Kaya",
-      "cost": 4200,
+      "cost": 4000,
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 259
+      "order": 267
     },
     {
       "id": 155,
@@ -2613,7 +2693,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 260
+      "order": 268
     },
     {
       "id": 156,
@@ -2623,7 +2703,7 @@
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 261
+      "order": 269
     },
     {
       "id": 157,
@@ -2633,7 +2713,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 262
+      "order": 270
     },
     {
       "id": 158,
@@ -2643,7 +2723,7 @@
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 263
+      "order": 271
     },
     {
       "id": 159,
@@ -2653,7 +2733,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 264
+      "order": 272
     },
     {
       "id": 160,
@@ -2663,27 +2743,27 @@
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 265
+      "order": 273
     },
     {
       "id": 161,
       "name": "item_recipe_sange",
       "nameLocalized": "Sange Recipe",
-      "cost": 650,
+      "cost": 550,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 266
+      "order": 274
     },
     {
       "id": 162,
       "name": "item_sange",
       "nameLocalized": "Sange",
-      "cost": 2100,
+      "cost": 2000,
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 267
+      "order": 275
     },
     {
       "id": 163,
@@ -2693,7 +2773,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 268
+      "order": 276
     },
     {
       "id": 164,
@@ -2703,7 +2783,7 @@
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 269
+      "order": 277
     },
     {
       "id": 633,
@@ -2713,7 +2793,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 270
+      "order": 278
     },
     {
       "id": 635,
@@ -2723,17 +2803,17 @@
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 271
+      "order": 279
     },
     {
       "id": 165,
       "name": "item_recipe_maelstrom",
       "nameLocalized": "Maelstrom Recipe",
-      "cost": 0,
+      "cost": 900,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 272
+      "order": 280
     },
     {
       "id": 166,
@@ -2743,7 +2823,7 @@
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 273
+      "order": 281
     },
     {
       "id": 1565,
@@ -2753,7 +2833,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 274
+      "order": 282
     },
     {
       "id": 1466,
@@ -2763,7 +2843,7 @@
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 275
+      "order": 283
     },
     {
       "id": 167,
@@ -2773,7 +2853,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 276
+      "order": 284
     },
     {
       "id": 168,
@@ -2783,27 +2863,27 @@
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 277
+      "order": 285
     },
     {
       "id": 169,
       "name": "item_recipe_yasha",
       "nameLocalized": "Yasha Recipe",
-      "cost": 650,
+      "cost": 550,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 278
+      "order": 286
     },
     {
       "id": 170,
       "name": "item_yasha",
       "nameLocalized": "Yasha",
-      "cost": 2100,
+      "cost": 2000,
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 279
+      "order": 287
     },
     {
       "id": 171,
@@ -2813,17 +2893,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 280
+      "order": 288
     },
     {
       "id": 172,
       "name": "item_mask_of_madness",
       "nameLocalized": "Mask of Madness",
-      "cost": 1900,
+      "cost": 1800,
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 281
+      "order": 289
     },
     {
       "id": 173,
@@ -2833,7 +2913,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 282
+      "order": 290
     },
     {
       "id": 174,
@@ -2843,7 +2923,7 @@
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 283
+      "order": 291
     },
     {
       "id": 1096,
@@ -2853,7 +2933,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 284
+      "order": 292
     },
     {
       "id": 1097,
@@ -2863,7 +2943,7 @@
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 285
+      "order": 293
     },
     {
       "id": 175,
@@ -2873,7 +2953,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 286
+      "order": 294
     },
     {
       "id": 176,
@@ -2883,7 +2963,7 @@
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 287
+      "order": 295
     },
     {
       "id": 177,
@@ -2893,7 +2973,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 288
+      "order": 296
     },
     {
       "id": 178,
@@ -2903,7 +2983,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 289
+      "order": 297
     },
     {
       "id": 179,
@@ -2913,7 +2993,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 290
+      "order": 298
     },
     {
       "id": 180,
@@ -2923,7 +3003,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 291
+      "order": 299
     },
     {
       "id": 228,
@@ -2933,7 +3013,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 292
+      "order": 300
     },
     {
       "id": 235,
@@ -2943,7 +3023,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 293
+      "order": 301
     },
     {
       "id": 181,
@@ -2953,7 +3033,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 294
+      "order": 302
     },
     {
       "id": 240,
@@ -2963,7 +3043,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 295
+      "order": 303
     },
     {
       "id": 640,
@@ -2973,17 +3053,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 296
+      "order": 304
     },
     {
       "id": 569,
       "name": "item_orb_of_corrosion",
       "nameLocalized": "Orb of Corrosion",
-      "cost": 1050,
+      "cost": 880,
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 297
+      "order": 305
     },
     {
       "id": 1575,
@@ -2993,7 +3073,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 298
+      "order": 306
     },
     {
       "id": 599,
@@ -3003,7 +3083,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 299
+      "order": 307
     },
     {
       "id": 596,
@@ -3013,7 +3093,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 300
+      "order": 308
     },
     {
       "id": 597,
@@ -3023,7 +3103,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 301
+      "order": 309
     },
     {
       "id": 598,
@@ -3033,7 +3113,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 302
+      "order": 310
     },
     {
       "id": 184,
@@ -3043,7 +3123,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 303
+      "order": 311
     },
     {
       "id": 185,
@@ -3053,7 +3133,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 304
+      "order": 312
     },
     {
       "id": 930,
@@ -3063,7 +3143,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 305
+      "order": 313
     },
     {
       "id": 931,
@@ -3073,7 +3153,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 306
+      "order": 314
     },
     {
       "id": 186,
@@ -3083,27 +3163,27 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 307
+      "order": 315
     },
     {
       "id": 187,
       "name": "item_medallion_of_courage",
       "nameLocalized": "Medallion of Courage",
       "cost": 0,
-      "neutralTier": 1,
+      "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 308
+      "order": 316
     },
     {
       "id": 227,
       "name": "item_recipe_solar_crest",
       "nameLocalized": "Solar Crest Recipe",
-      "cost": 500,
+      "cost": 600,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 309
+      "order": 317
     },
     {
       "id": 229,
@@ -3113,27 +3193,27 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 310
+      "order": 318
     },
     {
       "id": 1127,
       "name": "item_recipe_pavise",
       "nameLocalized": "Pavise Recipe",
-      "cost": 675,
+      "cost": 575,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 311
+      "order": 319
     },
     {
       "id": 1128,
       "name": "item_pavise",
       "nameLocalized": "Pavise",
-      "cost": 1350,
+      "cost": 1250,
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 312
+      "order": 320
     },
     {
       "id": 188,
@@ -3143,7 +3223,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 313
+      "order": 321
     },
     {
       "id": 257,
@@ -3153,7 +3233,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 314
+      "order": 322
     },
     {
       "id": 189,
@@ -3163,7 +3243,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 315
+      "order": 323
     },
     {
       "id": 190,
@@ -3173,27 +3253,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 316
-    },
-    {
-      "id": 910,
-      "name": "item_recipe_revenants_brooch",
-      "nameLocalized": "Revenant's Brooch Recipe",
-      "cost": 650,
-      "neutralTier": -1,
-      "quality": 1,
-      "recipe": true,
-      "order": 317
-    },
-    {
-      "id": 911,
-      "name": "item_revenants_brooch",
-      "nameLocalized": "Revenant's Brooch",
-      "cost": 3300,
-      "neutralTier": -1,
-      "quality": 3,
-      "recipe": false,
-      "order": 318
+      "order": 324
     },
     {
       "id": 1805,
@@ -3203,7 +3263,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 319
+      "order": 325
     },
     {
       "id": 1806,
@@ -3213,27 +3273,27 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 320
+      "order": 326
     },
     {
       "id": 230,
       "name": "item_recipe_guardian_greaves",
       "nameLocalized": "Guardian Greaves Recipe",
-      "cost": 1175,
+      "cost": 1075,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 321
+      "order": 327
     },
     {
       "id": 231,
       "name": "item_guardian_greaves",
       "nameLocalized": "Guardian Greaves",
-      "cost": 4450,
+      "cost": 4350,
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 322
+      "order": 328
     },
     {
       "id": 205,
@@ -3243,7 +3303,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 323
+      "order": 329
     },
     {
       "id": 206,
@@ -3253,7 +3313,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 324
+      "order": 330
     },
     {
       "id": 238,
@@ -3263,7 +3323,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 325
+      "order": 331
     },
     {
       "id": 239,
@@ -3273,7 +3333,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 326
+      "order": 332
     },
     {
       "id": 207,
@@ -3283,37 +3343,57 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 327
+      "order": 333
     },
     {
       "id": 208,
       "name": "item_abyssal_blade",
       "nameLocalized": "Abyssal Blade",
-      "cost": 6250,
+      "cost": 6150,
       "neutralTier": -1,
       "quality": 4,
       "recipe": false,
-      "order": 328
+      "order": 334
     },
     {
       "id": 209,
       "name": "item_recipe_heavens_halberd",
       "nameLocalized": "Heaven's Halberd Recipe",
-      "cost": 350,
+      "cost": 425,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 329
+      "order": 335
     },
     {
       "id": 210,
       "name": "item_heavens_halberd",
       "nameLocalized": "Heaven's Halberd",
-      "cost": 3300,
+      "cost": 2400,
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 330
+      "order": 336
+    },
+    {
+      "id": 1947,
+      "name": "item_recipe_skypiercer",
+      "nameLocalized": "Skypiercer Recipe",
+      "cost": 300,
+      "neutralTier": -1,
+      "quality": 1,
+      "recipe": true,
+      "order": 337
+    },
+    {
+      "id": 1948,
+      "name": "item_skypiercer",
+      "nameLocalized": "Skypiercer",
+      "cost": 6000,
+      "neutralTier": -1,
+      "quality": 5,
+      "recipe": false,
+      "order": 338
     },
     {
       "id": 211,
@@ -3323,7 +3403,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 331
+      "order": 339
     },
     {
       "id": 212,
@@ -3333,7 +3413,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 332
+      "order": 340
     },
     {
       "id": 213,
@@ -3343,7 +3423,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 333
+      "order": 341
     },
     {
       "id": 214,
@@ -3353,7 +3433,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 334
+      "order": 342
     },
     {
       "id": 215,
@@ -3363,7 +3443,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 335
+      "order": 343
     },
     {
       "id": 253,
@@ -3373,7 +3453,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 336
+      "order": 344
     },
     {
       "id": 254,
@@ -3383,7 +3463,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 337
+      "order": 345
     },
     {
       "id": 1021,
@@ -3393,7 +3473,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 338
+      "order": 346
     },
     {
       "id": 1022,
@@ -3403,7 +3483,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 339
+      "order": 347
     },
     {
       "id": 1023,
@@ -3413,7 +3493,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 340
+      "order": 348
     },
     {
       "id": 1024,
@@ -3423,7 +3503,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 341
+      "order": 349
     },
     {
       "id": 1025,
@@ -3433,7 +3513,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 342
+      "order": 350
     },
     {
       "id": 1026,
@@ -3443,7 +3523,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 343
+      "order": 351
     },
     {
       "id": 1027,
@@ -3453,7 +3533,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 344
+      "order": 352
     },
     {
       "id": 1028,
@@ -3463,7 +3543,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 345
+      "order": 353
     },
     {
       "id": 1029,
@@ -3473,7 +3553,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 346
+      "order": 354
     },
     {
       "id": 1030,
@@ -3483,7 +3563,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 347
+      "order": 355
     },
     {
       "id": 1032,
@@ -3493,7 +3573,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 348
+      "order": 356
     },
     {
       "id": 287,
@@ -3503,7 +3583,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 349
+      "order": 357
     },
     {
       "id": 288,
@@ -3513,7 +3593,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 350
+      "order": 358
     },
     {
       "id": 289,
@@ -3523,7 +3603,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 351
+      "order": 359
     },
     {
       "id": 290,
@@ -3533,7 +3613,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 352
+      "order": 360
     },
     {
       "id": 291,
@@ -3543,17 +3623,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 353
+      "order": 361
     },
     {
       "id": 292,
-      "name": "item_desolator_2",
+      "name": "item_stygian_desolator",
       "nameLocalized": "Stygian Desolator",
       "cost": 0,
-      "neutralTier": 4,
+      "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 354
+      "order": 362
     },
     {
       "id": 293,
@@ -3563,7 +3643,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 355
+      "order": 363
     },
     {
       "id": 294,
@@ -3573,7 +3653,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 356
+      "order": 364
     },
     {
       "id": 295,
@@ -3583,7 +3663,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 357
+      "order": 365
     },
     {
       "id": 302,
@@ -3593,7 +3673,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 358
+      "order": 366
     },
     {
       "id": 297,
@@ -3603,7 +3683,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 359
+      "order": 367
     },
     {
       "id": 829,
@@ -3613,7 +3693,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 360
+      "order": 368
     },
     {
       "id": 834,
@@ -3623,7 +3703,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 361
+      "order": 369
     },
     {
       "id": 849,
@@ -3633,7 +3713,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 362
+      "order": 370
     },
     {
       "id": 298,
@@ -3643,7 +3723,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 363
+      "order": 371
     },
     {
       "id": 299,
@@ -3653,7 +3733,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 364
+      "order": 372
     },
     {
       "id": 300,
@@ -3663,7 +3743,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 365
+      "order": 373
     },
     {
       "id": 301,
@@ -3673,7 +3753,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 366
+      "order": 374
     },
     {
       "id": 304,
@@ -3683,7 +3763,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 367
+      "order": 375
     },
     {
       "id": 328,
@@ -3693,7 +3773,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 368
+      "order": 376
     },
     {
       "id": 305,
@@ -3703,7 +3783,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 369
+      "order": 377
     },
     {
       "id": 306,
@@ -3713,7 +3793,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 370
+      "order": 378
     },
     {
       "id": 307,
@@ -3723,7 +3803,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 371
+      "order": 379
     },
     {
       "id": 308,
@@ -3733,17 +3813,17 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 372
+      "order": 380
     },
     {
       "id": 309,
       "name": "item_mind_breaker",
       "nameLocalized": "Mind Breaker",
       "cost": 0,
-      "neutralTier": -1,
+      "neutralTier": 3,
       "quality": 1,
       "recipe": false,
-      "order": 373
+      "order": 381
     },
     {
       "id": 310,
@@ -3753,7 +3833,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 374
+      "order": 382
     },
     {
       "id": 311,
@@ -3763,7 +3843,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 375
+      "order": 383
     },
     {
       "id": 325,
@@ -3773,7 +3853,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 376
+      "order": 384
     },
     {
       "id": 330,
@@ -3783,27 +3863,27 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 377
+      "order": 385
     },
     {
       "id": 334,
       "name": "item_imp_claw",
       "nameLocalized": "Imp Claw",
       "cost": 0,
-      "neutralTier": -1,
+      "neutralTier": 1,
       "quality": 1,
       "recipe": false,
-      "order": 378
+      "order": 386
     },
     {
       "id": 335,
       "name": "item_flicker",
       "nameLocalized": "Flicker",
       "cost": 0,
-      "neutralTier": -1,
+      "neutralTier": 3,
       "quality": 1,
       "recipe": false,
-      "order": 379
+      "order": 387
     },
     {
       "id": 336,
@@ -3813,17 +3893,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 380
+      "order": 388
     },
     {
       "id": 326,
       "name": "item_spider_legs",
       "nameLocalized": "Spider Legs",
       "cost": 0,
-      "neutralTier": 4,
+      "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 381
+      "order": 389
     },
     {
       "id": 327,
@@ -3833,7 +3913,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 382
+      "order": 390
     },
     {
       "id": 331,
@@ -3843,7 +3923,7 @@
       "neutralTier": -1,
       "quality": 2,
       "recipe": false,
-      "order": 383
+      "order": 391
     },
     {
       "id": 312,
@@ -3853,7 +3933,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 384
+      "order": 392
     },
     {
       "id": 313,
@@ -3863,7 +3943,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 385
+      "order": 393
     },
     {
       "id": 354,
@@ -3873,7 +3953,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 386
+      "order": 394
     },
     {
       "id": 1124,
@@ -3883,7 +3963,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 387
+      "order": 395
     },
     {
       "id": 355,
@@ -3893,7 +3973,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 388
+      "order": 396
     },
     {
       "id": 356,
@@ -3903,7 +3983,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 389
+      "order": 397
     },
     {
       "id": 357,
@@ -3913,7 +3993,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 390
+      "order": 398
     },
     {
       "id": 358,
@@ -3923,17 +4003,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 391
+      "order": 399
     },
     {
       "id": 359,
       "name": "item_essence_ring",
       "nameLocalized": "Essence Ring",
       "cost": 0,
-      "neutralTier": 1,
+      "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 392
+      "order": 400
     },
     {
       "id": 360,
@@ -3943,7 +4023,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 393
+      "order": 401
     },
     {
       "id": 361,
@@ -3953,7 +4033,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 394
+      "order": 402
     },
     {
       "id": 362,
@@ -3963,7 +4043,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 395
+      "order": 403
     },
     {
       "id": 363,
@@ -3973,7 +4053,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 396
+      "order": 404
     },
     {
       "id": 364,
@@ -3983,7 +4063,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 397
+      "order": 405
     },
     {
       "id": 365,
@@ -3993,7 +4073,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 398
+      "order": 406
     },
     {
       "id": 366,
@@ -4003,7 +4083,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 399
+      "order": 407
     },
     {
       "id": 367,
@@ -4013,7 +4093,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 400
+      "order": 408
     },
     {
       "id": 368,
@@ -4023,7 +4103,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 401
+      "order": 409
     },
     {
       "id": 275,
@@ -4033,17 +4113,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 402
+      "order": 410
     },
     {
       "id": 370,
       "name": "item_demonicon",
       "nameLocalized": "Book of the Dead",
       "cost": 0,
-      "neutralTier": 4,
+      "neutralTier": 3,
       "quality": 1,
       "recipe": false,
-      "order": 403
+      "order": 411
     },
     {
       "id": 317,
@@ -4053,17 +4133,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 404
+      "order": 412
     },
     {
       "id": 371,
       "name": "item_fallen_sky",
       "nameLocalized": "Fallen Sky",
       "cost": 0,
-      "neutralTier": 4,
+      "neutralTier": 3,
       "quality": 1,
       "recipe": false,
-      "order": 405
+      "order": 413
     },
     {
       "id": 372,
@@ -4073,7 +4153,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 406
+      "order": 414
     },
     {
       "id": 374,
@@ -4083,7 +4163,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 407
+      "order": 415
     },
     {
       "id": 375,
@@ -4093,7 +4173,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 408
+      "order": 416
     },
     {
       "id": 376,
@@ -4103,17 +4183,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 409
+      "order": 417
     },
     {
       "id": 377,
       "name": "item_minotaur_horn",
       "nameLocalized": "Minotaur Horn",
       "cost": 0,
-      "neutralTier": 4,
+      "neutralTier": 3,
       "quality": 1,
       "recipe": false,
-      "order": 410
+      "order": 418
     },
     {
       "id": 378,
@@ -4123,7 +4203,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 411
+      "order": 419
     },
     {
       "id": 379,
@@ -4133,7 +4213,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 412
+      "order": 420
     },
     {
       "id": 349,
@@ -4143,7 +4223,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 413
+      "order": 421
     },
     {
       "id": 381,
@@ -4153,7 +4233,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 414
+      "order": 422
     },
     {
       "id": 565,
@@ -4163,7 +4243,7 @@
       "neutralTier": 0,
       "quality": 1,
       "recipe": false,
-      "order": 415
+      "order": 423
     },
     {
       "id": 573,
@@ -4173,17 +4253,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 416
+      "order": 424
     },
     {
       "id": 574,
       "name": "item_cloak_of_flames",
       "nameLocalized": "Cloak of Flames",
       "cost": 0,
-      "neutralTier": 2,
+      "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 417
+      "order": 425
     },
     {
       "id": 571,
@@ -4193,7 +4273,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 418
+      "order": 426
     },
     {
       "id": 577,
@@ -4203,7 +4283,7 @@
       "neutralTier": 0,
       "quality": 1,
       "recipe": false,
-      "order": 419
+      "order": 427
     },
     {
       "id": 638,
@@ -4213,7 +4293,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 420
+      "order": 428
     },
     {
       "id": 680,
@@ -4223,27 +4303,27 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 421
+      "order": 429
     },
     {
       "id": 675,
       "name": "item_psychic_headband",
       "nameLocalized": "Psychic Headband",
       "cost": 0,
-      "neutralTier": 2,
+      "neutralTier": 1,
       "quality": 1,
       "recipe": false,
-      "order": 422
+      "order": 430
     },
     {
       "id": 676,
       "name": "item_ceremonial_robe",
       "nameLocalized": "Ceremonial Robe",
       "cost": 0,
-      "neutralTier": -1,
+      "neutralTier": 2,
       "quality": 1,
       "recipe": false,
-      "order": 423
+      "order": 431
     },
     {
       "id": 686,
@@ -4253,7 +4333,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 424
+      "order": 432
     },
     {
       "id": 677,
@@ -4263,17 +4343,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 425
+      "order": 433
     },
     {
       "id": 678,
       "name": "item_giants_ring",
       "nameLocalized": "Giant's Ring",
       "cost": 0,
-      "neutralTier": -1,
+      "neutralTier": 3,
       "quality": 1,
       "recipe": false,
-      "order": 426
+      "order": 434
     },
     {
       "id": 585,
@@ -4283,7 +4363,7 @@
       "neutralTier": 2,
       "quality": 1,
       "recipe": false,
-      "order": 427
+      "order": 435
     },
     {
       "id": 589,
@@ -4293,7 +4373,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 428
+      "order": 436
     },
     {
       "id": 825,
@@ -4303,7 +4383,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 429
+      "order": 437
     },
     {
       "id": 828,
@@ -4313,17 +4393,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 430
+      "order": 438
     },
     {
       "id": 837,
       "name": "item_heavy_blade",
       "nameLocalized": "Witchbane",
       "cost": 0,
-      "neutralTier": 4,
+      "neutralTier": 3,
       "quality": 1,
       "recipe": false,
-      "order": 431
+      "order": 439
     },
     {
       "id": 838,
@@ -4333,17 +4413,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 432
+      "order": 440
     },
     {
       "id": 840,
       "name": "item_pogo_stick",
       "nameLocalized": "Tumbler's Toy",
       "cost": 0,
-      "neutralTier": 1,
+      "neutralTier": 0,
       "quality": 1,
       "recipe": false,
-      "order": 433
+      "order": 441
     },
     {
       "id": 835,
@@ -4353,17 +4433,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 434
+      "order": 442
     },
     {
       "id": 945,
       "name": "item_seeds_of_serenity",
       "nameLocalized": "Seeds of Serenity",
       "cost": 0,
-      "neutralTier": 1,
+      "neutralTier": 0,
       "quality": 1,
       "recipe": false,
-      "order": 435
+      "order": 443
     },
     {
       "id": 946,
@@ -4373,17 +4453,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 436
+      "order": 444
     },
     {
       "id": 947,
       "name": "item_occult_bracelet",
       "nameLocalized": "Occult Bracelet",
       "cost": 0,
-      "neutralTier": 0,
+      "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 437
+      "order": 445
     },
     {
       "id": 949,
@@ -4393,17 +4473,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 438
+      "order": 446
     },
     {
       "id": 1101,
       "name": "item_recipe_harpoon",
       "nameLocalized": "Harpoon Recipe",
-      "cost": 1000,
+      "cost": 0,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 439
+      "order": 447
     },
     {
       "id": 939,
@@ -4413,7 +4493,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 440
+      "order": 448
     },
     {
       "id": 950,
@@ -4423,7 +4503,7 @@
       "neutralTier": 1,
       "quality": 1,
       "recipe": false,
-      "order": 441
+      "order": 449
     },
     {
       "id": 990,
@@ -4433,7 +4513,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 442
+      "order": 450
     },
     {
       "id": 1000,
@@ -4443,17 +4523,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 443
+      "order": 451
     },
     {
       "id": 1077,
       "name": "item_dagger_of_ristul",
       "nameLocalized": "Dagger of Ristul",
       "cost": 0,
-      "neutralTier": 0,
+      "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 444
+      "order": 452
     },
     {
       "id": 4300,
@@ -4463,7 +4543,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 445
+      "order": 453
     },
     {
       "id": 4301,
@@ -4473,7 +4553,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 446
+      "order": 454
     },
     {
       "id": 4302,
@@ -4483,7 +4563,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 447
+      "order": 455
     },
     {
       "id": 1090,
@@ -4493,7 +4573,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 448
+      "order": 456
     },
     {
       "id": 2091,
@@ -4503,7 +4583,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 449
+      "order": 457
     },
     {
       "id": 2092,
@@ -4513,7 +4593,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 450
+      "order": 458
     },
     {
       "id": 2093,
@@ -4523,7 +4603,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 451
+      "order": 459
     },
     {
       "id": 2094,
@@ -4533,7 +4613,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 452
+      "order": 460
     },
     {
       "id": 2095,
@@ -4543,7 +4623,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 453
+      "order": 461
     },
     {
       "id": 2096,
@@ -4553,17 +4633,27 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 454
+      "order": 462
+    },
+    {
+      "id": 911,
+      "name": "item_revenants_brooch",
+      "nameLocalized": "Revenant's Brooch",
+      "cost": 0,
+      "neutralTier": 2,
+      "quality": 1,
+      "recipe": false,
+      "order": 463
     },
     {
       "id": 2097,
       "name": "item_duelist_gloves",
       "nameLocalized": "Duelist Gloves",
       "cost": 0,
-      "neutralTier": 0,
+      "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 455
+      "order": 464
     },
     {
       "id": 1156,
@@ -4573,17 +4663,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 456
+      "order": 465
     },
     {
       "id": 1157,
       "name": "item_safety_bubble",
       "nameLocalized": "Safety Bubble",
       "cost": 0,
-      "neutralTier": -1,
+      "neutralTier": 1,
       "quality": 1,
       "recipe": false,
-      "order": 457
+      "order": 466
     },
     {
       "id": 1158,
@@ -4593,7 +4683,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 458
+      "order": 467
     },
     {
       "id": 1159,
@@ -4603,7 +4693,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 459
+      "order": 468
     },
     {
       "id": 1160,
@@ -4613,7 +4703,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 460
+      "order": 469
     },
     {
       "id": 1161,
@@ -4623,17 +4713,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 461
+      "order": 470
     },
     {
       "id": 2190,
       "name": "item_dandelion_amulet",
       "nameLocalized": "Dandelion Amulet",
       "cost": 0,
-      "neutralTier": 3,
+      "neutralTier": 2,
       "quality": 1,
       "recipe": false,
-      "order": 462
+      "order": 471
     },
     {
       "id": 2192,
@@ -4643,7 +4733,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 463
+      "order": 472
     },
     {
       "id": 2193,
@@ -4653,7 +4743,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 464
+      "order": 473
     },
     {
       "id": 1167,
@@ -4663,17 +4753,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 465
+      "order": 474
     },
     {
       "id": 1168,
       "name": "item_rattlecage",
       "nameLocalized": "Rattlecage",
       "cost": 0,
-      "neutralTier": 3,
+      "neutralTier": 2,
       "quality": 1,
       "recipe": false,
-      "order": 466
+      "order": 475
     },
     {
       "id": 1803,
@@ -4683,7 +4773,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 467
+      "order": 476
     },
     {
       "id": 1804,
@@ -4693,7 +4783,37 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 468
+      "order": 477
+    },
+    {
+      "id": 1949,
+      "name": "item_stone_of_recall",
+      "nameLocalized": "Stone of Recall",
+      "cost": 0,
+      "neutralTier": -1,
+      "quality": 0,
+      "recipe": false,
+      "order": 478
+    },
+    {
+      "id": 1950,
+      "name": "item_horn_of_battle",
+      "nameLocalized": "Horn of Battle",
+      "cost": 0,
+      "neutralTier": -1,
+      "quality": 0,
+      "recipe": false,
+      "order": 479
+    },
+    {
+      "id": 1951,
+      "name": "item_horn_of_battle_greater",
+      "nameLocalized": "Greater Horn of Battle",
+      "cost": 0,
+      "neutralTier": -1,
+      "quality": 0,
+      "recipe": false,
+      "order": 480
     },
     {
       "id": 1440,
@@ -4703,7 +4823,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 469
+      "order": 481
     },
     {
       "id": 1441,
@@ -4713,7 +4833,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 470
+      "order": 482
     },
     {
       "id": 1576,
@@ -4723,7 +4843,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 471
+      "order": 483
     },
     {
       "id": 1577,
@@ -4733,7 +4853,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 472
+      "order": 484
     },
     {
       "id": 1581,
@@ -4743,7 +4863,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 473
+      "order": 485
     },
     {
       "id": 1583,
@@ -4753,7 +4873,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 474
+      "order": 486
     },
     {
       "id": 1584,
@@ -4763,7 +4883,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 475
+      "order": 487
     },
     {
       "id": 1585,
@@ -4773,7 +4893,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 476
+      "order": 488
     },
     {
       "id": 1586,
@@ -4783,7 +4903,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 477
+      "order": 489
     },
     {
       "id": 1587,
@@ -4793,7 +4913,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 478
+      "order": 490
     },
     {
       "id": 1588,
@@ -4803,7 +4923,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 479
+      "order": 491
     },
     {
       "id": 1589,
@@ -4813,7 +4933,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 480
+      "order": 492
     },
     {
       "id": 1590,
@@ -4823,7 +4943,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 481
+      "order": 493
     },
     {
       "id": 1591,
@@ -4833,7 +4953,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 482
+      "order": 494
     },
     {
       "id": 1592,
@@ -4843,7 +4963,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 483
+      "order": 495
     },
     {
       "id": 1593,
@@ -4853,7 +4973,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 484
+      "order": 496
     },
     {
       "id": 1594,
@@ -4863,7 +4983,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 485
+      "order": 497
     },
     {
       "id": 1595,
@@ -4873,7 +4993,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 486
+      "order": 498
     },
     {
       "id": 1596,
@@ -4883,7 +5003,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 487
+      "order": 499
     },
     {
       "id": 1597,
@@ -4893,17 +5013,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 488
+      "order": 500
     },
     {
       "id": 1598,
       "name": "item_unrelenting_eye",
       "nameLocalized": "Unrelenting Eye",
       "cost": 0,
-      "neutralTier": 2,
+      "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 489
+      "order": 501
     },
     {
       "id": 1599,
@@ -4913,7 +5033,7 @@
       "neutralTier": 1,
       "quality": 1,
       "recipe": false,
-      "order": 490
+      "order": 502
     },
     {
       "id": 1600,
@@ -4923,7 +5043,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 491
+      "order": 503
     },
     {
       "id": 1601,
@@ -4933,7 +5053,7 @@
       "neutralTier": 1,
       "quality": 1,
       "recipe": false,
-      "order": 492
+      "order": 504
     },
     {
       "id": 1602,
@@ -4943,27 +5063,27 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 493
+      "order": 505
     },
     {
       "id": 1603,
       "name": "item_gunpowder_gauntlets",
       "nameLocalized": "Gunpowder Gauntlet",
       "cost": 0,
-      "neutralTier": 2,
+      "neutralTier": 1,
       "quality": 1,
       "recipe": false,
-      "order": 494
+      "order": 506
     },
     {
       "id": 1604,
       "name": "item_searing_signet",
       "nameLocalized": "Searing Signet",
       "cost": 0,
-      "neutralTier": 1,
+      "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 495
+      "order": 507
     },
     {
       "id": 1605,
@@ -4973,7 +5093,7 @@
       "neutralTier": 2,
       "quality": 1,
       "recipe": false,
-      "order": 496
+      "order": 508
     },
     {
       "id": 1606,
@@ -4983,7 +5103,7 @@
       "neutralTier": 0,
       "quality": 1,
       "recipe": false,
-      "order": 497
+      "order": 509
     },
     {
       "id": 1607,
@@ -4993,7 +5113,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 498
+      "order": 510
     },
     {
       "id": 1608,
@@ -5003,7 +5123,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 499
+      "order": 511
     },
     {
       "id": 1609,
@@ -5013,7 +5133,7 @@
       "neutralTier": -1,
       "quality": 0,
       "recipe": false,
-      "order": 500
+      "order": 512
     },
     {
       "id": 1610,
@@ -5023,7 +5143,7 @@
       "neutralTier": -1,
       "quality": 5,
       "recipe": false,
-      "order": 501
+      "order": 513
     },
     {
       "id": 1637,
@@ -5033,7 +5153,7 @@
       "neutralTier": 0,
       "quality": 1,
       "recipe": false,
-      "order": 502
+      "order": 514
     },
     {
       "id": 1638,
@@ -5043,7 +5163,7 @@
       "neutralTier": 0,
       "quality": 1,
       "recipe": false,
-      "order": 503
+      "order": 515
     },
     {
       "id": 1639,
@@ -5053,17 +5173,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 504
+      "order": 516
     },
     {
       "id": 1640,
       "name": "item_jidi_pollen_bag",
       "nameLocalized": "Jidi Pollen Bag",
       "cost": 0,
-      "neutralTier": 2,
+      "neutralTier": 1,
       "quality": 1,
       "recipe": false,
-      "order": 505
+      "order": 517
     },
     {
       "id": 1641,
@@ -5073,37 +5193,37 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 506
+      "order": 518
     },
     {
       "id": 1642,
       "name": "item_dezun_bloodrite",
       "nameLocalized": "Dezun Bloodrite",
       "cost": 0,
-      "neutralTier": 4,
+      "neutralTier": 3,
       "quality": 1,
       "recipe": false,
-      "order": 507
+      "order": 519
     },
     {
       "id": 1643,
       "name": "item_giant_maul",
       "nameLocalized": "Giant's Maul",
       "cost": 0,
-      "neutralTier": 3,
+      "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 508
+      "order": 520
     },
     {
       "id": 1644,
       "name": "item_divine_regalia",
       "nameLocalized": "Divine Regalia",
       "cost": 0,
-      "neutralTier": 4,
+      "neutralTier": 3,
       "quality": 1,
       "recipe": false,
-      "order": 509
+      "order": 521
     },
     {
       "id": 1645,
@@ -5113,7 +5233,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 510
+      "order": 522
     },
     {
       "id": 1647,
@@ -5123,7 +5243,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 511
+      "order": 523
     },
     {
       "id": 1648,
@@ -5133,7 +5253,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 512
+      "order": 524
     },
     {
       "id": 1649,
@@ -5143,7 +5263,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 513
+      "order": 525
     },
     {
       "id": 1650,
@@ -5153,7 +5273,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 514
+      "order": 526
     },
     {
       "id": 1651,
@@ -5163,7 +5283,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 515
+      "order": 527
     },
     {
       "id": 1652,
@@ -5173,17 +5293,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 516
+      "order": 528
     },
     {
       "id": 1715,
       "name": "item_recipe_specialists_array",
-      "nameLocalized": "recipe_specialists_array",
+      "nameLocalized": "Specialist's Array Recipe",
       "cost": 550,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 517
+      "order": 529
     },
     {
       "id": 1076,
@@ -5193,17 +5313,17 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 518
+      "order": 530
     },
     {
       "id": 1857,
       "name": "item_recipe_hydras_breath",
-      "nameLocalized": "recipe_hydras_breath",
+      "nameLocalized": "Hydra's Breath Recipe",
       "cost": 1000,
       "neutralTier": -1,
       "quality": 1,
       "recipe": true,
-      "order": 519
+      "order": 531
     },
     {
       "id": 1858,
@@ -5213,7 +5333,7 @@
       "neutralTier": -1,
       "quality": 3,
       "recipe": false,
-      "order": 520
+      "order": 532
     },
     {
       "id": 1716,
@@ -5223,7 +5343,7 @@
       "neutralTier": 0,
       "quality": 1,
       "recipe": false,
-      "order": 521
+      "order": 533
     },
     {
       "id": 1717,
@@ -5233,67 +5353,67 @@
       "neutralTier": 0,
       "quality": 1,
       "recipe": false,
-      "order": 522
+      "order": 534
     },
     {
       "id": 1718,
       "name": "item_riftshadow_prism",
       "nameLocalized": "Riftshadow Prism",
       "cost": 0,
-      "neutralTier": 4,
+      "neutralTier": 3,
       "quality": 1,
       "recipe": false,
-      "order": 523
+      "order": 535
     },
     {
       "id": 1719,
       "name": "item_metamorphic_mandible",
       "nameLocalized": "Metamorphic Mandible",
       "cost": 0,
-      "neutralTier": 3,
+      "neutralTier": 1,
       "quality": 1,
       "recipe": false,
-      "order": 524
+      "order": 536
     },
     {
       "id": 1720,
       "name": "item_idol_of_screeauk",
       "nameLocalized": "Idol of Scree'auk",
       "cost": 0,
-      "neutralTier": 3,
+      "neutralTier": 2,
       "quality": 1,
       "recipe": false,
-      "order": 525
+      "order": 537
     },
     {
       "id": 1721,
       "name": "item_flayers_bota",
       "nameLocalized": "Flayer's Bota",
       "cost": 0,
-      "neutralTier": 3,
+      "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 526
+      "order": 538
     },
     {
       "id": 1859,
       "name": "item_spellslinger",
       "nameLocalized": "Spellslinger",
       "cost": 0,
-      "neutralTier": 2,
+      "neutralTier": 1,
       "quality": 1,
       "recipe": false,
-      "order": 527
+      "order": 539
     },
     {
       "id": 1860,
       "name": "item_prophets_pendulum",
       "nameLocalized": "Prophet's Pendulum",
       "cost": 0,
-      "neutralTier": 3,
+      "neutralTier": 2,
       "quality": 1,
       "recipe": false,
-      "order": 528
+      "order": 540
     },
     {
       "id": 1861,
@@ -5303,27 +5423,67 @@
       "neutralTier": 0,
       "quality": 1,
       "recipe": false,
-      "order": 529
+      "order": 541
     },
     {
       "id": 1862,
       "name": "item_enchanters_bauble",
       "nameLocalized": "Enchanter's Bauble",
       "cost": 0,
-      "neutralTier": 3,
+      "neutralTier": 2,
       "quality": 1,
       "recipe": false,
-      "order": 530
+      "order": 542
     },
     {
       "id": 1863,
       "name": "item_harmonizer",
       "nameLocalized": "Harmonizer",
       "cost": 0,
-      "neutralTier": 4,
+      "neutralTier": 2,
       "quality": 1,
       "recipe": false,
-      "order": 531
+      "order": 543
+    },
+    {
+      "id": 1911,
+      "name": "item_helm_of_the_hivemind",
+      "nameLocalized": "Helm of the Hivemind",
+      "cost": 0,
+      "neutralTier": 3,
+      "quality": 1,
+      "recipe": false,
+      "order": 544
+    },
+    {
+      "id": 1884,
+      "name": "item_claszian_timepiece",
+      "nameLocalized": "Claszian Timepiece",
+      "cost": 0,
+      "neutralTier": -1,
+      "quality": 1,
+      "recipe": false,
+      "order": 545
+    },
+    {
+      "id": 1916,
+      "name": "item_brick",
+      "nameLocalized": "Brick",
+      "cost": 0,
+      "neutralTier": 1,
+      "quality": 1,
+      "recipe": false,
+      "order": 546
+    },
+    {
+      "id": 1917,
+      "name": "item_balmhook",
+      "nameLocalized": "Balmhook",
+      "cost": 0,
+      "neutralTier": 2,
+      "quality": 1,
+      "recipe": false,
+      "order": 547
     },
     {
       "id": 1864,
@@ -5333,7 +5493,7 @@
       "neutralTier": 3,
       "quality": 1,
       "recipe": false,
-      "order": 532
+      "order": 548
     },
     {
       "id": 1865,
@@ -5343,7 +5503,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 533
+      "order": 549
     },
     {
       "id": 1866,
@@ -5353,7 +5513,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 534
+      "order": 550
     },
     {
       "id": 1867,
@@ -5363,7 +5523,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 535
+      "order": 551
     },
     {
       "id": 1868,
@@ -5373,7 +5533,7 @@
       "neutralTier": 0,
       "quality": 1,
       "recipe": false,
-      "order": 536
+      "order": 552
     },
     {
       "id": 1869,
@@ -5383,7 +5543,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 537
+      "order": 553
     },
     {
       "id": 1870,
@@ -5393,7 +5553,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 538
+      "order": 554
     },
     {
       "id": 1871,
@@ -5403,7 +5563,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 539
+      "order": 555
     },
     {
       "id": 1872,
@@ -5413,17 +5573,17 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 540
+      "order": 556
     },
     {
       "id": 1873,
       "name": "item_partisans_brand",
       "nameLocalized": "Partisan's Brand",
       "cost": 0,
-      "neutralTier": 2,
+      "neutralTier": 1,
       "quality": 1,
       "recipe": false,
-      "order": 541
+      "order": 557
     },
     {
       "id": 1874,
@@ -5433,7 +5593,7 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 542
+      "order": 558
     },
     {
       "id": 1875,
@@ -5443,7 +5603,67 @@
       "neutralTier": -1,
       "quality": 1,
       "recipe": false,
-      "order": 543
+      "order": 559
+    },
+    {
+      "id": 1880,
+      "name": "item_red_ledger",
+      "nameLocalized": "Red Ledger",
+      "cost": 0,
+      "neutralTier": 0,
+      "quality": 1,
+      "recipe": false,
+      "order": 560
+    },
+    {
+      "id": 1881,
+      "name": "item_berserkers_hood",
+      "nameLocalized": "Berserker's Hood",
+      "cost": 0,
+      "neutralTier": -1,
+      "quality": 1,
+      "recipe": false,
+      "order": 561
+    },
+    {
+      "id": 1882,
+      "name": "item_vile_phial",
+      "nameLocalized": "Vile Phial",
+      "cost": 0,
+      "neutralTier": 2,
+      "quality": 1,
+      "recipe": false,
+      "order": 562
+    },
+    {
+      "id": 1883,
+      "name": "item_nothl_sigil",
+      "nameLocalized": "Nothl Sigil",
+      "cost": 0,
+      "neutralTier": -1,
+      "quality": 1,
+      "recipe": false,
+      "order": 563
+    },
+    {
+      "id": 1952,
+      "name": "item_recipe_berserkers_sabatons",
+      "nameLocalized": "recipe_berserkers_sabatons",
+      "cost": 2000,
+      "neutralTier": -1,
+      "quality": 1,
+      "recipe": true,
+      "order": 564
+    },
+    {
+      "id": 1953,
+      "name": "item_berserkers_sabatons",
+      "nameLocalized": "Sabatons of Mordiggian",
+      "cost": 5950,
+      "neutralTier": -1,
+      "quality": 1,
+      "recipe": false,
+      "order": 565
     }
   ]
 }
